@@ -1,13 +1,26 @@
+#Тестовое задание по работе с файлами
 
 
-file = open('new.txt', 'r')
+file=open('input.py','r')
+print(file.read())
+file.close()
 
-cont=file.readline()
 
+file=open('input.py','r')
+cont=file.readlines()
 for el in cont:
     print(el)
+    file.close()
 
 
-file.close()
+with open('input.py', 'r') as file:
+    print (file.readline())
+
+
+
+
+
+
+
 
 
