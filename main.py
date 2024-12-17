@@ -1,11 +1,20 @@
+file=open('new.txt', 'w')
 
-file=open('new.txt', 'r')
-cont=file.read()
-file2=open('main.py', 'w')
-file2.write(cont)
-file2.close()
+file.write ('Number_apartments')
+file.write ('1\n')
+file.write ('Cod:')
+file.write('1234\n')
+file.write('\n')
+#
+file.write ('Number apartments:')
+file.write ('2\n')
+file.write ('Cod:')
+file.write('2345\n')
+file.write('\n')
+#
+file.write ('Number apartments:')
+file.write ('3\n')
+file.write ('Cod:')
+file.write('3456')
+
 file.close()
-a=5
-b=2
-c=3
-print((a+b)*c)

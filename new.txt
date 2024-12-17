@@ -1,12 +1,8 @@
+Number_apartments1
+Cod:1234
 
-file=open('new.txt', 'r')
-cont=file.read()
-file2=open('main.py', 'w')
-file2.write(cont)
-file2.close()
-file.close()
-a=5
-b=2
-c=3
+Number apartments:2
+Cod:2345
 
-print((a+b)*c)
+Number apartments:3
+Cod:3456
