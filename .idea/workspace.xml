@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400c045f-7cc0-4cdd-ad30-9d73ec57ed55" name="Changes" comment="" />
+    <list default="true" id="400c045f-7cc0-4cdd-ad30-9d73ec57ed55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fake_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/fake_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trenirovka.py" beforeDir="false" afterPath="$PROJECT_DIR$/trenirovka.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,10 +57,14 @@
     "Python.module_2_2.executor": "Run",
     "Python.module_2_4.executor": "Run",
     "Python.module_2_4_2.executor": "Run",
+    "Python.module_3_2.executor": "Run",
     "Python.module_4_1.executor": "Run",
     "Python.obl_vid.executor": "Run",
+    "Python.trenirovka.executor": "Run",
+    "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "G:/PythonProject/Urban_1",
     "settings.editor.selected.configurable": "preferences.pluginManager"

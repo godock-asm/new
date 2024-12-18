@@ -1,22 +1,16 @@
+import email
 
-
-file=open('new.txt', 'w')
-
-file.write ('Number_apartments')
-file.write ('1\n')
-file.write ('Cod:')
-file.write('1234\n')
-file.write('\n')
-#
-file.write ('Number apartments:')
-file.write ('2\n')
-file.write ('Cod:')
-file.write('2345\n')
-file.write('\n')
-#
-file.write ('Number apartments:')
-file.write ('3\n')
-file.write ('Cod:')
-file.write('3456')
-
-file.close()
+def send_mai(message, recipient,  sender = 'university.help@gmail.com'):
+    valid_domains = ['com','ru','net']
+    for domains in valid_domains:
+        return False
+        print("Невозможно отправить письмо с адреса <sender> на адрес <recipient>")
+    if sender == recipient:
+        print("Нельзя отправить письмо самому себе!")
+    elif sender == university.help@gmail.com:
+        print( "Письмо успешно отправлено с адреса <sender> на адрес <recipient>.")
+    else:
+        print( "НЕСТАНДАРТНЫЙ ОТПРАВИТЕЛЬ! Письмо отправлено с адреса <sender> на адрес <recipient>.")
+    if '@' not in email:
+               return False
+send_mai('Привет!', 'godock@mail.ru','*' 'sender = university.help@gmail.com')

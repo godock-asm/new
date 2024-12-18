@@ -5,10 +5,12 @@ def divide(first,second):
         x = first / second
         print(x)
     else:
-        x='Ошибка'
+        x = 'Ошибка'
         print(x)
-divide(69,3)
-divide(3,0)
+
+
+divide(69, 3)
+divide(3, 0)
 
 
 
